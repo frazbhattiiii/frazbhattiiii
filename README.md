@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Muhammad Ahmed Fraz
 #### I am a Full stack Web Developer
-![I am a Full stack Web Developer](https://github.com/frazbhattiiii/frazbhattiiii/blob/main/mypic.jpeg)
+![I am a Full stack Web Developer](https://github.com/frazbhattiiii/frazbhattiiii/blob/main/mypic.jpg)
 
 I am a MERN STACK developer. I had worked on many MERN projects.
 I am good at DATA structures and Algorithm Analysis.
