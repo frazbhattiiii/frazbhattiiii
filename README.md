@@ -5,7 +5,12 @@
 I am a MERN STACK developer. I had worked on many MERN projects.
 I am good at DATA structures and Algorithm Analysis.
 
-Skills: MERN/ JS / HTML / CSS / Python / C++ / C
+##Skills
+⚛️React
+🕸️HTML,CSS, JS
+🧑‍🏫Node and Express
+![image](https://user-images.githubusercontent.com/91284347/152633806-59a4ff0b-ba48-47aa-9f80-2638f8d39b73.png)
+PYTHON, C++ ,C
 
 - 🔭 I’m currently working on MERN project 
 - 🌱 I’m currently learning Blockchain 
