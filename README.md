@@ -75,7 +75,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/frazbhattiiii/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=frazbhattiiii">
 </a>
 <a href="https://github.com/frazbhattiiii?tab=followers"><img src="https://img.shields.io/github/followers/frazbhattiiii?label=Followers&style=social" alt="GitHub Badge"></a>
