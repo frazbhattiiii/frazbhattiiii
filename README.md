@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://distracted-einstein-72416a.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://frazbhatti.netlify.app)**
 
 - 📫 How to reach me **Bhattifraz94@gmail.com**
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/frazbhattiiii/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=frazbhattiiii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/frazbhattiiii/github-readme-activity-graph"><img alt="Fraz Bhatti Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=frazbhattiiii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
