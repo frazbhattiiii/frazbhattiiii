@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **KARIGAR(MERN App)**
+- 🔭 I’m currently working on **Soul Bound(Web3 App)**
 
 - 🌱 I’m currently learning **BlockChain**
 
