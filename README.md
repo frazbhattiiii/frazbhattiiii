@@ -58,8 +58,8 @@
 
 <br/>
 <br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?frazbhattiiii=#frazbhattiiii&theme=dracula&hide_border=true
-<a href="https://github.com/frazbhattiiii/github-readme-activity-graph"><img alt="Fraz Bhatti Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=frazbhattiiii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?frazbhattiiii=#frazbhattiiii&theme=dracula&hide_border=true)
+
 
 <br/>
 <br/>
