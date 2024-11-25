@@ -1,22 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ahmed Fraz</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from PAKISTAN.</h3>
+<h3 align="center">I'm a passionate Full Stack Engineer with 3 years of experience </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Soul Bound(Web3 App)**
+- 🔭 I’m currently working on **Blockchain based Property Tokenization Platform**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **Terraform**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://frazbhatti.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ahmed-fraz.vercel.app)**
 
 - 📫 How to reach me **Bhattifraz94@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
