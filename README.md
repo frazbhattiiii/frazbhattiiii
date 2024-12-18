@@ -1,78 +1,50 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&background=transparent" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=000000&animation=fadeIn&background=transparent" />
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=header&text=Hey%20There!%20👋&fontSize=60&fontColor=000000&animation=fadeIn&background=transparent" />
+</picture>
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Ahmed Fraz</h1>
-<h3 align="center">I'm a passionate Full Stack Engineer with 3 years of experience </h3>
+# 🌟 Introduction
+Hello! I'm **Muhammad Ahmed Fraz**, a passionate **Full Stack Engineer** with over **3 years** of experience, currently honing my skills at **ThyReality**. As a final year Computer Science student, I thrive on tackling challenges and finding solutions that optimize user experiences. My journey in tech is driven by a love for problem-solving and an eagerness to stay ahead in the ever-evolving landscape of web development.
 
+# 💼 Professional Experience
+- **Full Stack Engineer** at ThyReality
+  - Collaborated on diverse projects utilizing **React.js**, **Next.js**, and the MERN stack.
+  - Developed scalable applications, ensuring seamless integration between frontend and backend technologies.
 
-## 🙋‍♂️ About Me
+# 🛠️ Tech Stack
+My core technologies include:
+- **Frontend:** React.js, Next.js, TypeScript, and various frontend libraries.
+- **Backend:** Node.js, Express.js, Nest.js, Django, Flask.
+- **Databases:** MongoDB, PostgreSQL, MySQL.
+  
+> "The best part of programming is the satisfaction that comes from solving complex problems." 
 
-- 🔭 I’m currently working on **Blockchain based Property Tokenization Platform**
+# 📊 Language Statistics
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🌱 I’m currently learning **Terraform**
+# 📫 Contact Information
+Feel free to reach out to me:
+- ✉️ Email: [bhattifraz94@gmail.com](mailto:bhattifraz94@gmail.com)
+- 💼 GitHub: [frazbhattiiii](https://github.com/frazbhattiiii)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+# 📈 Activity Graph
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ahmed-fraz.vercel.app)**
-
-- 📫 How to reach me **Bhattifraz94@gmail.com**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/frazbhattiiii/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Ahmed Fraz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=frazbhattiiii&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/frazbhattiiii/github-readme-stats"><img alt="Ahmed Fraz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frazbhattiiii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/frazbhattiiii/github-readme-stats"><img alt="Ahmed Fraz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frazbhattiiii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![Fraz Bhatti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frazbhattiiii&bg_color=14000b&color=be7eba&line=cfcecf&point=c1bebe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<br/>
-<br/>
-<a href="https://github.com/frazbhattiiii/github-readme-activity-graph"><img alt="Fraz Bhatti Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=frazbhattiiii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/fraz-bhatti-6824a0211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Muhamma07220854/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/frazbhattiiii/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
+# 👀 Views and Followers
 <a href="https://github.com/frazbhattiiii/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=frazbhattiiii">
 </a>
